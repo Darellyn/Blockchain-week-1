@@ -14,8 +14,8 @@ Time spent:
 - [x] The contract has one operation `pickNumber`
 - [x] `pickNumber` accepts an integer between 1 and 10 inclusive.
 - [x] `pickNumber` can accept any amount of ether
-- [x] the contract will select a random number after `Y` calls to `pickNumber`
-- [x] each address gets only 4 tickets maximum
+- [x] The contract will select a random number after `Y` calls to `pickNumber`
+- [x] Each address gets only 4 tickets maximum
 - [x] Winner(s) are able to keep and get all the money that has been pooled in the contract.
 - [x] The money is split between winners if there is more than one winner.
 
