@@ -39,7 +39,7 @@ The following advanced user stories are **optional**. You're not required to do 
 - [x] A number is picked and able to pay out to winners that decreases and the odds on others increases proportionally.
 
 ## Note 
-Describe any challenges in building this Dapp, was it easy or not?
+Describe any challenges in building this DApp, was it easy or not?
 ## Other Resources 
 * [Solidity Docs](https://solidity.readthedocs.io/en/develop/) -- the official Solidity docs
 * [Remix IDE](https://remix.ethereum.org/) -- official tool to write, test, deploy contracts
